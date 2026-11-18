@@ -1,0 +1,16 @@
+From: Account Desk <desk@studio.example>
+Reply-To: Reply Desk <reply@support.example>
+Subject: Urgent account review
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="synthetic-demo"
+
+--synthetic-demo
+Content-Type: text/plain; charset=utf-8
+
+Please enter your password immediately to keep access.
+--synthetic-demo
+Content-Type: text/html; charset=utf-8
+
+<p>Please enter your password immediately to keep access.</p>
+<a href="https://support.example:8443/review">https://studio.example/review</a>
+--synthetic-demo--
